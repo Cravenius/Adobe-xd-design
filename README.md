@@ -1,4 +1,4 @@
-# Adobe Xd Design
+# User Interface Design
 
 Disclaimer: All assets used in my personal project for UI design is from the internet.
 
